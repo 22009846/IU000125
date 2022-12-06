@@ -291,6 +291,10 @@ Designing the case for my device was a test of patience. I started off with the 
 
 I secured the components onto the case with hot glue, but added a significant twist: I coloured the hot glue with a green sharpie. This wasn't just for fun; it's a major contributor to the sci-fi look I was aiming for.
 
+# The Fluid
+
+The fluid is a simple mix of corn starch and water, called non-Newtonian fluid. I haven't explained why I decided to work with non-Newtonian fluid in either my presentation or my demo video (which is linked in the former), so this might be a good time to do so. The first reason is that working with a gooey, moving fluid was the most effective way I could think of to achieve a sci-fi look. The second reason is simply that I was interested in exploring the relationship between sound and matter, and playing around with non-Newtonian fluid seemed like a whole lot of fun (it is).
+
 # Concluding Remarks
 
 The preceding paragraphs are only a brief, concise description of the process I went through. I made so many mistakes with each component I couldn't have possibly kept track of them all, and I also tested some additional components that didn't make it to the final project (which took up a large chunk of my time). In addition, I spent a fair amount of time researching ideas before I even started working on my project, as well as researching the theory behind what I was doing.
