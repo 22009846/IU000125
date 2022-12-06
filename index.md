@@ -8,7 +8,7 @@ Presentation: [LINK]
 
 ![](Circuit.png)
 
-(Available at: [LINK])
+(Diagram available at: https://www.tinkercad.com/things/0dd8D33kWMK-pcomp-end-of-term-project/editel?sharecode=Qfmkby5-pRfvcCYfOLX-c3HX9iRfIknGoGUBeGoOcw8)
 
 ```
 /*
