@@ -6,7 +6,7 @@ I don't discuss my code much here, for one simple reason: after having undertake
 
 Presentation: [LINK]
 
-[IMG]
+![](Circuit.png)
 
 (Available at: [LINK])
 
