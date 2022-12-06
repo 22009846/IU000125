@@ -253,7 +253,7 @@ Building the part of my project centered around the big speaker proved to be dif
 
 The big, central speaker in my device originates from a Sony SS-EC69i. To extract the relevant component from the Sony SS-EC69i, I initially tried to open the latter with a screwdriver, a hammer, and a hair dryer (it was sealed with glue rather than screws, much to my dismay). After a good hour or two or trying to open it this way, I gave up and started looking for alternative solutions. I then came across [this video](https://www.youtube.com/watch?v=jViMVnf3Txc "How to open sealed speakers"), which lead me to furiously stomp the Sony SS-EC69i until I smashed my foot through its side. This worked perfectly.
 
-[IMG]
+![](0.JPG)
 
 My struggles were only beginning however, as the speaker was fairly small, and both my hands and my tools were not. Eventually, I succeeded in getting the component out.
 
@@ -297,4 +297,4 @@ The preceding paragraphs are only a brief, concise description of the process I 
 
 # Gallery
 
-![](1.JPG) ![](2.JPG) ![](3.JPG) ![](4.JPG)
+![](1.JPG) ![](2.JPG) ![](3.JPG) ![](4.JPG) ![](5.JPG)
