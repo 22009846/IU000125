@@ -62,4 +62,4 @@ The preceding paragraphs are only a brief, concise description of the process I 
 
 # Gallery
 
-[IMG][IMG][IMG][IMG]
+![](1.JPG) ![](2.JPG) ![](3.JPG) ![](4.JPG)
