@@ -4,7 +4,7 @@ This article describes the steps I took to build my end of term IU000125 project
 
 I don't discuss my code much here, for one simple reason: after having undertaken extensive academic and professional training in C, I've learned to "think in C," and coding in C/C++ comes naturally to me; it's like an instinct, and I'd find it hard to describe what exactly went through my mind when I wrote any particular segment. Hopefully, the code comments speak for themselves.
 
-Presentation: [LINK]
+Presentation: https://drive.proton.me/urls/PKD1VZ2N0C#xmXMtIQXIuiG (Download Only, 214MB)
 
 ![](Circuit.png)
 
@@ -277,7 +277,7 @@ It's important to mention that my designs are based on an existing 3D model and 
 
 I undertook a 3D printing induction with Colin, and printed my keycaps.
 
-I then soldered my 3PDT foot switches to my prototype board, but I didn't get it right the first time. The first thing I types in a search engine to find out how to wire them was "3PDT foot switch pinout" (notice that I didn't use the "Arduino" keyword). I found a variety of diagrams online, some of which were different than others. While testing different configurations, I believe I accidentally got one of my breadboard wires to touch two terminals of the switch I was using, because I wired it incorrectly and yet found it to work fine. I discovered this the hard way: after soldering both of the switches to my prototype board, I realised something was wrong. Eventually, I searched for "3PDT foot switch Arduino" and found the correct way to wire them.
+I then soldered my 3PDT foot switches to my prototype board, but I didn't get it right the first time. The first thing I typed in a search engine to find out how to wire them was "3PDT foot switch pinout" (notice that I didn't use the "Arduino" keyword). I found a variety of diagrams online, some of which were different than others. While testing different configurations, I believe I accidentally got one of my breadboard wires to touch two terminals of the switch I was using, because I wired it incorrectly and yet found it to work fine. I discovered this the hard way: after soldering both of the switches to my prototype board, I realised something was wrong. Eventually, I searched for "3PDT foot switch Arduino" and found the correct way to wire them.
 
 The preset button doesn't deserve much attention; it's fairly simple and everything went smoothly with it.
 
